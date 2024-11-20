@@ -1,4 +1,4 @@
-#include "sgg/graphics.h"
+#include "graphics.h"
 
 void App::draw() {
 
